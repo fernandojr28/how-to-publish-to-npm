@@ -1,0 +1,19 @@
+{
+  "name": "@fjuarez97/publishing-to-npm",
+  "version": "1.0.0",
+  "description": "how publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandojr28/how-to-publish-to-npm.git"
+  },
+  "author": "fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandojr28/how-to-publish-to-npm/issues"
+  },
+  "homepage": "https://github.com/fernandojr28/how-to-publish-to-npm#readme"
+}
